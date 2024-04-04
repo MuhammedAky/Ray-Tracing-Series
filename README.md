@@ -1,6 +1,25 @@
-# Walnut App Template
+# Ray Tracing Series
 
-This is a simple app template for [Walnut](https://github.com/TheCherno/Walnut) - unlike the example within the Walnut repository, this keeps Walnut as an external submodule and is much more sensible for actually building applications. See the [Walnut](https://github.com/TheCherno/Walnut) repository for more details.
+This repository contains the example code following The Cherno's Ray Tracing series on YouTube.
 
-## Getting Started
-Once you've cloned, you can customize the `premake5.lua` and `WalnutApp/premake5.lua` files to your liking (eg. change the name from "WalnutApp" to something else).  Once you're happy, run `scripts/Setup.bat` to generate Visual Studio 2022 solution/project files. Your app is located in the `WalnutApp/` directory, which some basic example code to get you going in `WalnutApp/src/WalnutApp.cpp`. I recommend modifying that WalnutApp project to create your own application, as everything should be setup and ready to go.
+## About
+
+In this project, we follow The Cherno's YouTube series on Ray Tracing to learn about 3D graphics and ray tracing concepts. Each episode focuses on a specific concept or technique and includes relevant code examples.
+
+## How to Use
+
+To clone this project:
+
+git clone https://github.com/MuhammedAky/Ray-Tracing-Series.git
+
+
+Then, you can explore the code examples for each episode and run the code for any specific episode. Note that each episode has its own subdirectory.
+
+## Resources
+
+- [The Cherno YouTube Channel](https://www.youtube.com/@TheCherno)
+- [Ray Tracing Series](https://www.youtube.com/watch?v=gfW1Fhd9u9Q&list=PLlrATfBNZ98edc5GshdBtREv5asFW3yXl)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
